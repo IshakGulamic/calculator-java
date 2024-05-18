@@ -4,11 +4,11 @@ Ovaj projekat sadrži dva Java fajla: Start.java i Calculator.java. Oba fajla su
 
     Start.java
 
--Broj linija koda: X
+-Broj linija koda za kompletan projekat(ukljucujuci i prazne linije): 254
 
--Ciklomatska složenost: X
+-Ciklomatska složenost: 3
 
--Kognitivna složenost: X
+-Kognitivna složenost: 4
 
     Zaključci:
 
@@ -26,11 +26,11 @@ Ovaj projekat sadrži dva Java fajla: Start.java i Calculator.java. Oba fajla su
 
      Calculator.java
 
--Broj linija koda: X
 
--Ciklomatska složenost: X
 
--Kognitivna složenost: X
+-Ciklomatska složenost: 9
+
+-Kognitivna složenost: 19
 
       Zaključci:
 
